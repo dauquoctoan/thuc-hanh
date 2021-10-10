@@ -1,0 +1,12 @@
+*{
+    /* inherit ke thua lai the chua no (kế thừa lại box-sizing: border-box;)*/
+    box-sizing: inherit;
+}
+
+html {
+    /* hack moi 1rem dinh ngia tuong duong voi 10px*/
+    font-size: 62.5%;
+    line-height: 1.6rem;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+}
